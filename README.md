@@ -1,7 +1,7 @@
 Git
 ---
 
-Choose a Github Issue.
+Choose a Pivotal story.
 
 Create a local feature branch off of master for development.
 
@@ -24,7 +24,7 @@ Write a [good commit message](http://goo.gl/w11us).
 
 A good commit message:
 
-* Prefixes the subject line with a Github Issue number.
+* Prefixes the subject line with a Pivotal story number.
 * Uses the present tense.
 
 Share your feature branch
